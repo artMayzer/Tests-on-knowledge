@@ -1,0 +1,6 @@
+C:\Users\amsmv\Documents\izvp2s\lab345\lab345\x64\Release\lab345.vcxproj.AssemblyReference.cache
+C:\Users\amsmv\Documents\izvp2s\lab345\lab345\x64\Release\lab345.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\amsmv\Documents\izvp2s\lab345\lab345\x64\Release\lab345.MyForm.resources
+C:\Users\amsmv\Documents\izvp2s\lab345\lab345\x64\Release\lab345.MyForm1.resources
+C:\Users\amsmv\Documents\izvp2s\lab345\lab345\x64\Release\lab345.MyForm2.resources
+C:\Users\amsmv\Documents\izvp2s\lab345\lab345\x64\Release\lab345.vcxproj.GenerateResource.cache
